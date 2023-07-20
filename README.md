@@ -4,6 +4,13 @@
 Este é um aplicativo de dashboard responsivo, projetado para fornecer informações e análises sobre vendas, visitas ao site e muito mais. Ele é construído com HTML, CSS e JavaScript puro, e também utiliza ícones da biblioteca Material Icons Sharp.
 
 Esse projeto foi feito graças ao tutorial do canal ASMR Programming.
+
+# Screenshot
+Here we have project screenshot :
+
+![screenshot1](light-mode.png)
+![screenshot2](dark-mode.png)
+
 ## Como Usar
 
 1. Clone ou faça o download deste repositório para a sua máquina local.
