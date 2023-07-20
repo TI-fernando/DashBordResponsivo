@@ -1,3 +1,4 @@
+// Objetos listados por ordem.
 const Orders = [
     {
         productName: 'JavaScript Tutorial',
