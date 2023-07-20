@@ -8,8 +8,8 @@ Esse projeto foi feito graças ao tutorial do canal ASMR Programming.
 # Screenshot
 Here we have project screenshot :
 
-![screenshot1](light-mode.png)
-![screenshot2](dark-mode.png)
+![screenshot1](light-mode.jpg)
+![screenshot2](dark-mode.jpg)
 
 ## Como Usar
 
