@@ -6,7 +6,7 @@ Este é um aplicativo de dashboard responsivo, projetado para fornecer informaç
 Esse projeto foi feito graças ao tutorial do canal ASMR Programming.
 
 # Screenshot
-Here we have project screenshot :
+Fotos do Projeto :
 
 ![screenshot1](light-mode.jpg)
 ![screenshot2](dark-mode.jpg)
