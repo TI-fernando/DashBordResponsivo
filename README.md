@@ -9,6 +9,7 @@ Esse projeto foi feito graças ao tutorial do canal ASMR Programming.
 Fotos do Projeto :
 
 ![screenshot1](light-mode.jpg)
+
 ![screenshot2](dark-mode.jpg)
 
 ## Como Usar
